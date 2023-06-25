@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# NFT Gallery
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## nvm
+
+This project uses an `.nvmrc` file to manage the Node.js version. The `.nvmrc` file specifies the recommended Node.js version for this project. It helps ensure that all project collaborators are using the same Node.js version, which can help prevent compatibility issues.
+
+## Prerequisites
+
+Before proceeding, ensure that you have the following installed on your machine:
+
+- Node.js: The recommended version can be found in the `.nvmrc` file in the project's root directory.
+- NVM (Node Version Manager): If you don't have NVM installed, you can follow the instructions in the [official NVM repository](https://github.com/nvm-sh/nvm) to install it.
 
 ## Available Scripts
 
@@ -68,3 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Prettier
+
+This project uses a `.prettierrc` file to define the code formatting rules and style preferences.
